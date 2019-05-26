@@ -1,2 +1,3 @@
 # File-Cryptographer
-Project i designed to learn more about crypto alogorithms.
+This Application securely  encrypts  files for user .
+User can securely decrypt the on providing the right key.
